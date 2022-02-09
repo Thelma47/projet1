@@ -39,3 +39,6 @@ LARGEUR = 600
 #######################
 # programme principal
 
+racine = tk.Tk()
+canvas = tk.Canvas(racine)
+bouton = tk.Button()
