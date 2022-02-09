@@ -42,3 +42,5 @@ LARGEUR = 600
 racine = tk.Tk()
 canvas = tk.Canvas(racine)
 bouton = tk.Button()
+
+racine.mainloop()
