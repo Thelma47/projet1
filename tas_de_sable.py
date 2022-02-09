@@ -7,15 +7,8 @@
 #########################################
 
 import tkinter as tk
-import random
+import random as rd
 
-CANVAS_WIDTH, CANVAS_HEIGHT = 500, 600
-
-root = tk.Tk()
-
-canvas = tk.Canvas(root, width = CANVAS_WIDTH, height = CANVAS_HEIGHT, bg = "#000000")
-
-root.mainloop()
 
 #######################
 # import des librairies
@@ -40,7 +33,7 @@ LARGEUR = 600
 # programme principal
 
 racine = tk.Tk()
-canvas = tk.Canvas(racine)
+canvas = tk.Canvas(racine, width = LARGEUR, height = HAUTEUR)
 bouton = tk.Button()
 
 racine.mainloop()
