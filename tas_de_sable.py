@@ -17,3 +17,25 @@ canvas = tk.Canvas(root, width = CANVAS_WIDTH, height = CANVAS_HEIGHT, bg = "#00
 
 root.mainloop()
 
+#######################
+# import des librairies
+
+import tkinter as tk
+
+
+############################
+
+# Définition des constantes
+
+# hauteur du canevas
+HAUTEUR = 600
+# largeur du canevas
+LARGEUR = 600
+
+#######################
+# fonctions
+
+
+#######################
+# programme principal
+
