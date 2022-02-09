@@ -17,4 +17,3 @@ canvas = tk.Canvas(root, width = CANVAS_WIDTH, height = CANVAS_HEIGHT, bg = "#00
 
 root.mainloop()
 
-fffffff
