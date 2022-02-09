@@ -36,4 +36,6 @@ racine = tk.Tk()
 canvas = tk.Canvas(racine, width = LARGEUR, height = HAUTEUR)
 bouton = tk.Button()
 
+canvas.grid()
+
 racine.mainloop()
