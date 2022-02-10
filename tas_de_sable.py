@@ -6,14 +6,11 @@
 # https://github.com/Thelma47/projet1
 #########################################
 
-import tkinter as tk
-import random as rd
-
-
 #######################
 # import des librairies
 
 import tkinter as tk
+import random as rd
 
 
 ############################
